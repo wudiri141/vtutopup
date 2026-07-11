@@ -1,0 +1,73 @@
+/* ===== GLOBAL ===== */
+* { margin:0; padding:0; box-sizing:border-box; font-family:'Inter', system-ui, sans-serif;}
+body { background:#F5F7FA; color:#1F2937; }
+
+/* ===== HEADER ===== */
+.header { background:#fff; padding:16px 30px; border-bottom:1px solid #E5E7EB; display:flex; align-items:center; gap:20px; position:fixed; top:0; left:0; right:0; height:70px; z-index:1000; }
+.menu-icon { font-size:22px; cursor:pointer; }
+.header-content h1 { font-size:20px; font-weight:600; }
+.user-actions span { font-weight:500; color:#2563EB; }
+
+/* ===== SIDEBAR ===== */
+.sidebar { width:260px; background:#fff; position:fixed; top:70px; left:0; bottom:0; padding:20px; border-right:1px solid #E5E7EB; transition:width 0.3s ease; overflow:hidden; z-index:999; }
+.sidebar.collapsed { width:80px; }
+.sidebar .profile { text-align:center; margin-bottom:25px; }
+.sidebar .profile img { width:70px; height:70px; border-radius:50%; }
+.sidebar .profile h3 { margin-top:10px; font-size:16px; }
+.sidebar.collapsed .profile h3,
+.sidebar.collapsed .profile img { display:none; } /* Hide name & photo */
+.menu ul { list-style:none; }
+.menu ul li a { display:flex; align-items:center; gap:12px; padding:12px 14px; margin-bottom:6px; border-radius:10px; text-decoration:none; color:#374151; font-size:14px; transition:background 0.2s; }
+.menu ul li a i { min-width:20px; text-align:center; }
+.menu ul li a:hover, .menu ul li a.active { background:#E0F2FE; color:#0284C7; }
+.sidebar.collapsed .menu ul li a span { display:none; }
+.sidebar.collapsed .menu ul li a i { margin:0 auto; }
+
+/* ===== CONTENT ===== */
+.content { margin-left:260px; padding:100px 30px 30px; transition:margin-left 0.3s ease; }
+.content.expanded { margin-left:80px; }
+.container { max-width:1200px; margin:auto; }
+
+/* ===== CARDS ===== */
+.card { background:#fff; border-radius:16px; padding:22px; box-shadow:0 8px 25px rgba(0,0,0,0.08); text-align:center; }
+.card i { font-size:26px; color:#1E9BD7; margin-bottom:10px; }
+.card h3 { font-size:15px; margin-bottom:8px; }
+.card p { font-size:18px; font-weight:600; }
+
+/* ===== ACCOUNT INFO ===== */
+.account-info { background:#1E9BD7; color:white; padding:25px; border-radius:16px; display:flex; justify-content:space-between; align-items:center; margin-bottom:25px; }
+.account-info h2 { font-size:22px; }
+.generate-account-btn { background:white; color:#1E9BD7; border:none; padding:12px 18px; border-radius:10px; cursor:pointer; font-weight:600; }
+
+/* ===== ANNOUNCEMENT ===== */
+.announcement { background:#fff; padding:15px 20px; border-radius:12px; margin-bottom:30px; display:flex; gap:10px; box-shadow:0 6px 20px rgba(0,0,0,0.06); }
+
+/* ===== BUTTONS ===== */
+.btn-primary { display:inline-block; background:#1E9BD7; color:white; padding:10px 18px; border-radius:10px; font-weight:600; border:none; cursor:pointer; text-decoration:none; }
+.btn-primary:hover { background:#1684b8; }
+
+/* ===== RESPONSIVE ===== */
+@media(max-width:768px){
+  .sidebar { left:-260px; }
+  .sidebar.active { left:0; }
+  .content { margin-left:0; padding-top:100px; }
+}
+
+
+/* ===== SIDEBAR COLLAPSE ===== */
+.sidebar.collapsed {
+    width: 80px; /* collapsed width */
+}
+
+.sidebar.collapsed .profile h3,
+.sidebar.collapsed .menu ul li a span {
+    display: none; /* hide text */
+}
+
+.sidebar.collapsed .profile img {
+    display: none; /* hide profile photo when collapsed */
+}
+
+.sidebar.collapsed .menu ul li a i {
+    margin: 0 auto; /* center icons */
+}

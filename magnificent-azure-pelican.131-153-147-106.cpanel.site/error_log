@@ -1,0 +1,28 @@
+[03-Jun-2026 10:13:54 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Support\Environment::get() must be an instance of App\Support\mixed or null, string given, called in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/bootstrap.php on line 22 and defined in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/Support/Environment.php:50
+Stack trace:
+#0 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/bootstrap.php(22): App\Support\Environment::get('APP_TIMEZONE', 'UTC')
+#1 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/api.php(4): require_once('/home2/vtutopup...')
+#2 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/index.php(4): require('/home2/vtutopup...')
+#3 {main}
+  thrown in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/Support/Environment.php on line 50
+[03-Jun-2026 10:13:56 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Support\Environment::get() must be an instance of App\Support\mixed or null, string given, called in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/bootstrap.php on line 22 and defined in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/Support/Environment.php:50
+Stack trace:
+#0 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/bootstrap.php(22): App\Support\Environment::get('APP_TIMEZONE', 'UTC')
+#1 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/api.php(4): require_once('/home2/vtutopup...')
+#2 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/index.php(4): require('/home2/vtutopup...')
+#3 {main}
+  thrown in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/Support/Environment.php on line 50
+[03-Jun-2026 10:14:11 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Support\Environment::get() must be an instance of App\Support\mixed or null, string given, called in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/bootstrap.php on line 22 and defined in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/Support/Environment.php:50
+Stack trace:
+#0 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/bootstrap.php(22): App\Support\Environment::get('APP_TIMEZONE', 'UTC')
+#1 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/api.php(4): require_once('/home2/vtutopup...')
+#2 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/index.php(4): require('/home2/vtutopup...')
+#3 {main}
+  thrown in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/Support/Environment.php on line 50
+[03-Jun-2026 10:14:15 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Support\Environment::get() must be an instance of App\Support\mixed or null, string given, called in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/bootstrap.php on line 22 and defined in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/Support/Environment.php:50
+Stack trace:
+#0 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/bootstrap.php(22): App\Support\Environment::get('APP_TIMEZONE', 'UTC')
+#1 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/api.php(4): require_once('/home2/vtutopup...')
+#2 /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/index.php(4): require('/home2/vtutopup...')
+#3 {main}
+  thrown in /home2/vtutopup/public_html/magnificent-azure-pelican.131-153-147-106.cpanel.site/src/Support/Environment.php on line 50

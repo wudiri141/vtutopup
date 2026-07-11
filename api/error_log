@@ -1,0 +1,52 @@
+[12-Apr-2026 00:04:51 UTC] sendVerificationEmail failed: SMTP Error: Could not authenticate.
+[13-Apr-2026 08:19:12 UTC] [VTU TOPUP] mail() sent OK – To: ibmido28@gmail.com | Subject: Verify Your Email – VTU TOPUP
+[13-Apr-2026 08:54:06 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 230
+[13-Apr-2026 08:54:10 UTC] [VTU TOPUP] mail() sent OK – To: ibmido28@gmail.com | Subject: Transaction Receipt – VTU TOPUP
+[13-Apr-2026 19:38:13 UTC] [VTU TOPUP] mail() sent OK – To: umarmuhammadbama85@gmail.com | Subject: Verify Your Email – VTU TOPUP
+[13-Apr-2026 19:53:36 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 230
+[13-Apr-2026 19:53:41 UTC] [VTU TOPUP] mail() sent OK – To: umarmuhammadbama85@gmail.com | Subject: Transaction Receipt – VTU TOPUP
+[14-Apr-2026 06:47:41 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 230
+[07-May-2026 15:48:14 UTC] [VTU TOPUP] mail() sent OK – To: support@vtutopup.com.ng | Subject: Verify Your Email – VTU TOPUP
+[09-May-2026 22:25:26 UTC] PHPMailer failed for adamusani1256@gmail.com: Reset your password - VTUTOPUP - SMTP Error: Could not authenticate.
+[09-May-2026 22:25:26 UTC] Sent via PHP mail to adamusani1256@gmail.com: Reset your password - VTUTOPUP
+[17-May-2026 17:23:35 UTC] PHPMailer failed for hadizalawan354@gmail.com: Reset your password - VTUTOPUP - SMTP Error: Could not authenticate.
+[17-May-2026 17:23:35 UTC] Sent via PHP mail to hadizalawan354@gmail.com: Reset your password - VTUTOPUP
+[18-May-2026 07:51:25 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 235
+[22-Jun-2026 15:46:46 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 15:52:04 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 15:59:55 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 16:00:08 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 16:07:06 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 280
+[22-Jun-2026 16:11:01 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 280
+[22-Jun-2026 16:11:19 UTC] PHPMailer failed for hadizalawan354@gmail.com: Transaction Receipt - VTUTOPUP - SMTP Error: Could not authenticate.
+[22-Jun-2026 16:11:19 UTC] Sent via PHP mail to hadizalawan354@gmail.com: Transaction Receipt - VTUTOPUP
+[22-Jun-2026 16:44:50 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 16:44:54 UTC] PHPMailer failed for eyawere@gmail.com: Transaction Receipt - VTUTOPUP - SMTP Error: Could not authenticate.
+[22-Jun-2026 16:44:54 UTC] Sent via PHP mail to eyawere@gmail.com: Transaction Receipt - VTUTOPUP
+[22-Jun-2026 16:48:32 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 16:48:36 UTC] PHPMailer failed for eyawere@gmail.com: Transaction Receipt - VTUTOPUP - SMTP Error: Could not authenticate.
+[22-Jun-2026 16:48:36 UTC] Sent via PHP mail to eyawere@gmail.com: Transaction Receipt - VTUTOPUP
+[22-Jun-2026 18:07:06 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 18:07:21 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 18:08:13 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 18:09:23 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 18:10:21 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 18:11:43 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 18:12:09 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 280
+[22-Jun-2026 18:50:24 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 18:50:55 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 20:29:41 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[22-Jun-2026 20:30:03 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[23-Jun-2026 06:25:22 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[23-Jun-2026 18:01:43 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[23-Jun-2026 19:24:44 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[24-Jun-2026 04:52:09 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[24-Jun-2026 04:52:17 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[24-Jun-2026 04:53:37 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[25-Jun-2026 01:27:15 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[25-Jun-2026 11:43:53 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[28-Jun-2026 04:54:38 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[30-Jun-2026 09:42:51 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[30-Jun-2026 09:43:12 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 280
+[01-Jul-2026 12:40:53 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248
+[08-Jul-2026 19:28:45 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/vtutopup/public_html/api/services.php on line 248

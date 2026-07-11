@@ -1,0 +1,76 @@
+[2026-05-08 16:02:06] PHPMailer failed for support@vtutopup.com.ng: Verify your email - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-08 16:02:06] Sent via PHP mail to support@vtutopup.com.ng: Verify your email - VTUTOPUP
+[2026-05-08 16:02:38] PHPMailer failed for support@vtutopup.com.ng: Welcome to VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-08 16:02:38] Sent via PHP mail to support@vtutopup.com.ng: Welcome to VTUTOPUP
+[2026-05-08 16:02:54] PHPMailer failed for adamusani1256@gmail.com: Reset your password - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-08 16:02:54] Sent via PHP mail to adamusani1256@gmail.com: Reset your password - VTUTOPUP
+[2026-05-08 16:03:36] PHPMailer failed for adamusani1256@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-08 16:03:36] Sent via PHP mail to adamusani1256@gmail.com: Your Login OTP - VTUTOPUP
+[2026-05-08 21:09:36] PHPMailer failed for hadizalawan354@gmail.com: Verify your email - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-08 21:09:36] Sent via PHP mail to hadizalawan354@gmail.com: Verify your email - VTUTOPUP
+[2026-05-08 21:10:12] PHPMailer failed for hadizalawan354@gmail.com: Welcome to VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-08 21:10:12] Sent via PHP mail to hadizalawan354@gmail.com: Welcome to VTUTOPUP
+[2026-05-08 21:10:45] PHPMailer failed for hadizalawan354@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-08 21:10:45] Sent via PHP mail to hadizalawan354@gmail.com: Your Login OTP - VTUTOPUP
+[2026-05-09 22:25:26] PHPMailer failed for adamusani1256@gmail.com: Reset your password - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-09 22:25:26] Sent via PHP mail to adamusani1256@gmail.com: Reset your password - VTUTOPUP
+[2026-05-11 16:47:42] PHPMailer failed for adamusani1256@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-11 16:47:42] Sent via PHP mail to adamusani1256@gmail.com: Your Login OTP - VTUTOPUP
+[2026-05-12 06:51:30] PHPMailer failed for klemkog7@gmail.com: Verify your email - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-12 06:51:30] Sent via PHP mail to klemkog7@gmail.com: Verify your email - VTUTOPUP
+[2026-05-12 06:57:06] PHPMailer failed for klemkog7@gmail.com: Welcome to VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-12 06:57:06] Sent via PHP mail to klemkog7@gmail.com: Welcome to VTUTOPUP
+[2026-05-12 06:57:24] PHPMailer failed for klemkog7@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-12 06:57:24] Sent via PHP mail to klemkog7@gmail.com: Your Login OTP - VTUTOPUP
+[2026-05-17 17:23:35] PHPMailer failed for hadizalawan354@gmail.com: Reset your password - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-05-17 17:23:35] Sent via PHP mail to hadizalawan354@gmail.com: Reset your password - VTUTOPUP
+[2026-06-05 18:33:16] PHPMailer failed for nura001y@gmail.com: Verify your email - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-05 18:33:16] Sent via PHP mail to nura001y@gmail.com: Verify your email - VTUTOPUP
+[2026-06-05 18:33:39] PHPMailer failed for nura001y@gmail.com: Welcome to VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-05 18:33:39] Sent via PHP mail to nura001y@gmail.com: Welcome to VTUTOPUP
+[2026-06-05 18:34:12] PHPMailer failed for nura001y@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-05 18:34:12] Sent via PHP mail to nura001y@gmail.com: Your Login OTP - VTUTOPUP
+[2026-06-10 20:29:15] PHPMailer failed for adamusani1256@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-10 20:29:15] Sent via PHP mail to adamusani1256@gmail.com: Your Login OTP - VTUTOPUP
+[2026-06-22 15:28:05] PHPMailer failed for eyawere@gmail.com: Verify your email - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 15:28:05] Sent via PHP mail to eyawere@gmail.com: Verify your email - VTUTOPUP
+[2026-06-22 15:28:27] PHPMailer failed for eyawere@gmail.com: Welcome to VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 15:28:27] Sent via PHP mail to eyawere@gmail.com: Welcome to VTUTOPUP
+[2026-06-22 15:28:44] PHPMailer failed for eyawere@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 15:28:44] Sent via PHP mail to eyawere@gmail.com: Your Login OTP - VTUTOPUP
+[2026-06-22 15:28:46] PHPMailer failed for eyawere@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 15:28:46] Sent via PHP mail to eyawere@gmail.com: Your Login OTP - VTUTOPUP
+[2026-06-22 15:29:11] PHPMailer failed for eyawere@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 15:29:11] Sent via PHP mail to eyawere@gmail.com: Your Login OTP - VTUTOPUP
+[2026-06-22 15:29:13] PHPMailer failed for eyawere@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 15:29:13] Sent via PHP mail to eyawere@gmail.com: Your Login OTP - VTUTOPUP
+[2026-06-22 15:32:04] PHPMailer failed for cowell1235@gmail.com: Verify your email - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 15:32:04] Sent via PHP mail to cowell1235@gmail.com: Verify your email - VTUTOPUP
+[2026-06-22 15:32:30] PHPMailer failed for cowell1235@gmail.com: Welcome to VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 15:32:30] Sent via PHP mail to cowell1235@gmail.com: Welcome to VTUTOPUP
+[2026-06-22 15:56:40] PHPMailer failed for cowell1235@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 15:56:40] Sent via PHP mail to cowell1235@gmail.com: Your Login OTP - VTUTOPUP
+[2026-06-22 16:11:19] PHPMailer failed for hadizalawan354@gmail.com: Transaction Receipt - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 16:11:19] Sent via PHP mail to hadizalawan354@gmail.com: Transaction Receipt - VTUTOPUP
+[2026-06-22 16:44:54] PHPMailer failed for eyawere@gmail.com: Transaction Receipt - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 16:44:54] Sent via PHP mail to eyawere@gmail.com: Transaction Receipt - VTUTOPUP
+[2026-06-22 16:47:13] PHPMailer failed for hiwelid488@uggbuy.com: Verify your email - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 16:47:13] Sent via PHP mail to hiwelid488@uggbuy.com: Verify your email - VTUTOPUP
+[2026-06-22 16:47:33] PHPMailer failed for hiwelid488@uggbuy.com: Welcome to VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 16:47:33] Sent via PHP mail to hiwelid488@uggbuy.com: Welcome to VTUTOPUP
+[2026-06-22 16:48:36] PHPMailer failed for eyawere@gmail.com: Transaction Receipt - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 16:48:36] Sent via PHP mail to eyawere@gmail.com: Transaction Receipt - VTUTOPUP
+[2026-06-22 17:55:50] PHPMailer failed for gevir32551@uggbuy.com: Verify your email - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 17:55:50] Sent via PHP mail to gevir32551@uggbuy.com: Verify your email - VTUTOPUP
+[2026-06-22 17:56:38] PHPMailer failed for gevir32551@uggbuy.com: Welcome to VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 17:56:38] Sent via PHP mail to gevir32551@uggbuy.com: Welcome to VTUTOPUP
+[2026-06-22 18:06:22] PHPMailer failed for meher47280@uggbuy.com: Verify your email - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 18:06:22] Sent via PHP mail to meher47280@uggbuy.com: Verify your email - VTUTOPUP
+[2026-06-22 18:06:43] PHPMailer failed for meher47280@uggbuy.com: Welcome to VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-22 18:06:43] Sent via PHP mail to meher47280@uggbuy.com: Welcome to VTUTOPUP
+[2026-06-28 15:55:55] PHPMailer failed for prosperjasper002@gmail.com: Verify your email - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-28 15:55:55] Sent via PHP mail to prosperjasper002@gmail.com: Verify your email - VTUTOPUP
+[2026-06-28 15:56:12] PHPMailer failed for prosperjasper002@gmail.com: Welcome to VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-28 15:56:12] Sent via PHP mail to prosperjasper002@gmail.com: Welcome to VTUTOPUP
+[2026-06-28 15:56:25] PHPMailer failed for prosperjasper002@gmail.com: Your Login OTP - VTUTOPUP - SMTP Error: Could not authenticate.
+[2026-06-28 15:56:25] Sent via PHP mail to prosperjasper002@gmail.com: Your Login OTP - VTUTOPUP
